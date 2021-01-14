@@ -27,7 +27,7 @@ class Ogre {
   }
 
   apologize(human) {
-    
+    human.knockedOut = false;
   }
 }
 
